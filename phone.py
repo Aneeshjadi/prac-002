@@ -1,4 +1,4 @@
-THIS IS THE PROGRAM FOR PHONE NUMBER
+THIS IS THE PROGRAM FOR PHONE NUMBER......
 
 phone=input("enter any number")
 if (phone.isdigit()):
